@@ -1,0 +1,28 @@
+
+.file_box{
+}
+.file_box.loading{
+    padding-top: 120px;
+    background: url(loading.gif) center 10px no-repeat;
+    display: inline-block;
+    *display: inline;
+    *zoom:1;
+}
+.file_btn{
+    display: inline-block;
+    *display: inline;
+    *zoom:1;
+    position: relative;
+    overflow: hidden;
+    color: #fff;
+    background: #000;
+    border-radius: 10px;
+    padding: 8px 24px;
+}
+.file_btn input{
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 1000%;
+    opacity: 0;
+}

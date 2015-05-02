@@ -1,0 +1,20 @@
+{
+    "name": "jq.fileupload",
+    "version": "0.9.0",
+    "homepage": "https://github.com/ateliee/jq.fileupload",
+    "authors": [
+        "ateliee <info@ateliee.com>"
+    ],
+    "description": "jQuery file upload script plugin",
+    "main": "js/jq.fileupload.js",
+    "keywords": [
+        "jquery",
+        "file"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ]
+}
