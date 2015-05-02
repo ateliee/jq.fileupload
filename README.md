@@ -11,5 +11,9 @@ this script is jquery plugin.
 ## install
 composer add next.
 ```
-composer
+composer jq.fileupload
 ```
+and html setting
+
+## sample
+this repository in sample dir
